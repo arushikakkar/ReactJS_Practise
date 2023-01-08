@@ -6,6 +6,7 @@ function App() {
     <>
     <Navbar title = "TextUtils" aboutText = "AboutUtils"/>   
        </>
+     
 
   );
 }
